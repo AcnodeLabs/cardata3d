@@ -1,6 +1,6 @@
-# cardata3d
+ # cardata3d
 
-Requires curl.exe setup in your PATH
+Requires curl.exe setup in your PATH (if u dont have curl just run getcurl.asadmin.bat in a command prompt with admin previlages)
 
 What it does:
 it extracts year, mileage and price data from specified make model from car sales listing sites (e.g pakwheels.com)
