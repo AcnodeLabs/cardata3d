@@ -1,4 +1,4 @@
- # cardata3d
+ # View Car Market Data in 3D - cardata3d
 
 Requires curl.exe setup in your PATH (if u dont have curl just run getcurl.asadmin.bat in a command prompt with admin previlages)
 
