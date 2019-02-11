@@ -18,10 +18,10 @@ set arg4=%4
 echo fetching %3 pages for %1 %2 
 
 if %argC% EQU 3 ( 
-    call getcarpages.bat %arg1% %arg2% %arg3% > output.txt
+    call g1.bat %arg1% %arg2% %arg3% > output.txt
 )
 if %argC% EQU 4 ( 
-    call getcarpages.bat %arg1% %arg2% %arg3% %arg4> output.txt
+    call g1.bat %arg1% %arg2% %arg3% %arg4> output.txt
 )
 if exist output.csv del output.csv
 @echo on
